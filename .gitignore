@@ -26,6 +26,7 @@ bit-manipulation/NumberUniqueXORTripletsI
 matrix/Shift2DGrid
 matrix/spirally_traversing_matrix
 grid/FindSafestPathGrid
+sliding-window/maxSubarrayLength
 
 # macOS
 .DS_Store
