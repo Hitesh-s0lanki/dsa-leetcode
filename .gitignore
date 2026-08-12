@@ -1,0 +1,31 @@
+# Build output
+build/
+*.o
+*.out
+*.dSYM/
+
+# Compiled executables (no extension, produced next to their .cpp)
+counting/RearrangeCharactersMakeTargetString
+counting/MaximumNumberBalloons
+array/FindtheHighestAltitude
+graph/DetectCycleDirectedGraph
+graph/bfs
+graph/CycleDetectionInUndirectedGraph
+graph/RemoveMethodsFromProject
+sequential/GCDOddEvenSums
+sequential/FindNumberSubsequencesWithEqualGCD
+sequential/sequentialDigits
+math/ConcatenateNonZeroDigitsMultiplySumII
+math/ConcatenateNonZeroDigitsMultiplybySumI
+subarray/CountSubarraysWithMajorityElementI
+subarray/CountSubarraysWithMajorityElementII
+sorting/RemoveCoveredIntervals
+sorting/merge_sort
+linklist/implementation
+bit-manipulation/NumberUniqueXORTripletsI
+matrix/Shift2DGrid
+matrix/spirally_traversing_matrix
+grid/FindSafestPathGrid
+
+# macOS
+.DS_Store

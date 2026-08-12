@@ -1,0 +1,17 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+# Opening brace stays on the SAME line as the declaration/statement (K&R / Attach)
+BreakBeforeBraces: Attach
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 0
+AccessModifierOffset: -4
+NamespaceIndentation: None
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+PointerAlignment: Right
+SortIncludes: false
+---

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++ -std=c++17 -o /private/tmp/claude-502/-Users-Hemant-Desktop-projects-cpp/98bb2544-83d3-46cb-b57f-706f74531b84/scratchpad/mp MaximumProductThreeNumbers.cpp)",
+      "Bash(/private/tmp/claude-502/-Users-Hemant-Desktop-projects-cpp/98bb2544-83d3-46cb-b57f-706f74531b84/scratchpad/mp)"
+    ]
+  }
+}
