@@ -27,6 +27,8 @@ matrix/Shift2DGrid
 matrix/spirally_traversing_matrix
 grid/FindSafestPathGrid
 sliding-window/maxSubarrayLength
+sliding-window/MaximumLengthSubstringWithTwoOccurrences
+segment-tree/implementation
 
 # macOS
 .DS_Store
