@@ -29,6 +29,8 @@ grid/FindSafestPathGrid
 sliding-window/maxSubarrayLength
 sliding-window/MaximumLengthSubstringWithTwoOccurrences
 segment-tree/implementation
+segment-tree/RangeMinimumQuery
+dynamic-programming/StoneGameV
 
 # macOS
 .DS_Store
