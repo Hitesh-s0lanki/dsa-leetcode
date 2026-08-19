@@ -32,6 +32,7 @@ segment-tree/implementation
 segment-tree/RangeMinimumQuery
 dynamic-programming/StoneGameV
 hash-table/FindtheLargestAlmostMissingInteger
+bit-manipulation/CinemaSeatAllocation
 
 # macOS
 .DS_Store
